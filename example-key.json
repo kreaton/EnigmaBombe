@@ -1,0 +1,9 @@
+{
+  // Daily key of the README worked example. Keys are the command-line option names without "--".
+  // Options given on the command line override these.
+  "rotors": [2, 4, 1],
+  "reflector": "B",
+  "rings": "BCD",
+  "pos": "QMX",
+  "plugs": "AB CD EF GH IJ KL MN OP QR ST"
+}
